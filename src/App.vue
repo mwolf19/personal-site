@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex justify-conte">
     Testing
   </div>
 </template>
@@ -8,6 +8,6 @@
 
 </script>
 
-<style scoped>
+<style>
 
 </style>
